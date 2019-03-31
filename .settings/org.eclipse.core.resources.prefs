@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/mianshi/aio/Client.java=UTF-8
+encoding//src/mianshi/aio/Server.java=UTF-8
+encoding//src/mianshi/aio/ServerCompletionHandler.java=UTF-8
+encoding//src/mianshi/bio/Server.java=UTF-8
+encoding//src/mianshi/bio/ServerHandler.java=UTF-8
+encoding//src/mianshi/nio/NIOServer.java=UTF-8
