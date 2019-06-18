@@ -1,5 +1,7 @@
 package mianshi.lambda;
 
+import java.util.Arrays;
+
 public class LambddaTester {
 	public static void main(String[] args) {
 		LambddaTester tester = new LambddaTester();
@@ -31,6 +33,7 @@ public class LambddaTester {
 
 		greetService1.sayMessage("Runoob");
 		greetService2.sayMessage("Google");
+		Arrays.asList( "p", "k", "u","f", "o", "r","k").forEach( e -> System.out.println( e ) ); 
 	}
 
 	interface MathOperation {
